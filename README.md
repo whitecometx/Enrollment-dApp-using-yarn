@@ -1,4 +1,4 @@
-Solana Airdrop and Enrollment Project
+Solana Airdrop and Enrollment Project.
 This project demonstrates how to interact with the Solana blockchain using TypeScript. 
 It includes scripts- 
 
